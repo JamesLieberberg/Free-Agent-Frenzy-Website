@@ -84,7 +84,7 @@ body {
 	text-decoration: none;
 }
 
-#Main h1 {
+#Main h1:first-child {
 	width: 75%;
 	font-size: 50px;
 	text-align: center;
